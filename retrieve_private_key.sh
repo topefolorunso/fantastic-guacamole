@@ -10,7 +10,8 @@ while [ -z $keyPairName ];
 
         echo "invalid key pair name!"
         echo "you need to provide a non-empty string as the key pair name!"
-        echo "kindly enter a valid name for the key pair: "
+        echo "kindly enter a valid name for the key pair:"
+        echo ""
 
         read keyPairName
 
