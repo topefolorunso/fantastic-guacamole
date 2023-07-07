@@ -47,4 +47,4 @@ Resources:
 
 
 ---
-Medium blog post - 
+Medium blog post - https://medium.com/@topefolorunso/get-private-ssh-key-after-creating-key-pair-with-aws-cloudformation-quick-tip-bash-script-73a3841d6854
