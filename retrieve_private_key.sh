@@ -29,6 +29,7 @@ if [ -z $keyPairID ]
 
     then
 
+        echo ""
         # stop running the script if the key pair does not exist
         echo "the key pair with the name [$keyPairName] does not exist in aws systems manager parameter store."
         echo "please create a valid key pair with cloudformation or check the key pair name and try again!"
